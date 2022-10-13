@@ -270,6 +270,14 @@ box-shadow: -5px -5px 30px 5px #e1f3ff 5px 4px 30px 5px #e1f3ff ;
     color: #fff;
     font-weight: 600;
 }
+.booking{
+    display: inline-block;
+    width: 33%;
+    margin-left:4px;
+    color: #fff;
+    font-weight: 600;
+    font-size: 15px;
+}
 
 
  
