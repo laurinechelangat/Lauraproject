@@ -243,5 +243,33 @@ box-shadow: -5px -5px 30px 5px #e1f3ff 5px 4px 30px 5px #e1f3ff ;
     letter-spacing: 1px;
 }
 
+/*work*/
+.work{
+    position: relative;
+    margin-top: -80px;
+}
+.hours{
+    background: #01ca8b;
+    border-radius: 10px;
+    padding: 40px 50px ;
+}
+.hours h2{
+    color: #fff;
+    font-weight: 900;
+    margin: 0 0 30px;
+}
+.time{
+    border-top:1px solid rgb(255 255 255 / 0.52);
+    padding: 30px 0;
+}
+.time:last-child{
+    padding-bottom:0;
+}
+.time h4{
+    text-align: left;
+    color: #fff;
+    font-weight: 600;
+}
+
 
  
