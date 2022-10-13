@@ -261,17 +261,14 @@ box-shadow: -5px -5px 30px 5px #e1f3ff 5px 4px 30px 5px #e1f3ff ;
 .time{
     border-top:1px solid rgb(255 255 255 / 0.52);
     padding: 30px 0;
-}
+}  
 .time:last-child{
     padding-bottom:0;
 }
-.time h4{
+.time h4, .time p{
     text-align: left;
     color: #fff;
     font-weight: 600;
-}
-.time p{
-    
 }
 
 
